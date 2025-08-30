@@ -25,7 +25,7 @@ Responsive, dark-themed design for desktop and mobile
 
 📂 Files
 
-italianissimo_professor_bigfoot.html → Main interactive lesson page
+index.html → Main interactive lesson page
 
 🚀 How to Use
 
